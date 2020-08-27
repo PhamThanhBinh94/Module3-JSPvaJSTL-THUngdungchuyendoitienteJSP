@@ -8,7 +8,7 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
   <head>
-    <title>Currency Converter</title>
+    <title>Currency Converter</title>git
   </head>
   <body>
   <h2>Currency Converter</h2>
